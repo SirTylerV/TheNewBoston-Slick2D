@@ -1,4 +1,4 @@
-package com.tylervasko;
+package JavaGame;
 
 import org.newdawn.slick.*;
 import org.newdawn.slick.state.*;
